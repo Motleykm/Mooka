@@ -1,0 +1,27 @@
+Git status 
+Git add . 
+Git commit -m 'my message'
+Git push 
+
+Git 
+Ls
+Open .
+
+
+
+Command
+
+Command 	tab 
+Command s
+Command v
+Command c
+Command h 
+Command tab 
+Command z 
+ 
+Command d desktop
+
+Git remote -v
+
+
+
